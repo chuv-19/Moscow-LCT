@@ -1,0 +1,30 @@
+# Tree Detection System - Requirements
+# Updated: October 2, 2025
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLO Object Detection
+ultralytics>=8.0.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Configuration & Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+
+# Visualization (optional, for training)
+matplotlib>=3.7.0
+
+# Build Tools (for creating standalone executable)
+pyinstaller>=6.0.0

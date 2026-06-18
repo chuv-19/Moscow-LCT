@@ -1,0 +1,17 @@
+__pycache__
+.mypy_cache
+.venv
+
+# Ignore datasets
+dataset
+defects/dataset
+
+# Ignore all model weights
+*.pt
+*.pth
+*.ckpt
+
+# Ignore all training results
+runs/
+
+build
